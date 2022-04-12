@@ -1,0 +1,22 @@
+.tab-content{
+    padding: 70px;
+}
+.lead{
+    display: inherit;
+    font-size: 18px;
+    padding: 8px;
+}
+.display-4{
+    font-size: 30px;
+}
+nav{
+    padding-top: 10px;
+}
+.container{
+    padding: 20px;
+}
+img{
+    align-items:inherit;
+    padding: 50px;
+    max-width: 100%;
+}
